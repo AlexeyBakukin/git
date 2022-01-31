@@ -1,2 +1,2 @@
 update text
-email plus
+email plus "test@mail.com"
