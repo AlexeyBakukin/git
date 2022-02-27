@@ -1,6 +1,7 @@
 update text
 email plus "test@mail.com"
 phone 8903
+<<<<<<< HEAD
 choose a point delivery
 button
 
@@ -8,3 +9,8 @@ hehe
 
 remove all pictures
 
+=======
+
+button
+button 2
+>>>>>>> b72700ae2f143638f543ad70dd2e44c3543848f6
